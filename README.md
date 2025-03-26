@@ -2,7 +2,8 @@
 
 Un outil web permettant de calculer et comparer des crédits bancaires en Europe et en Afrique de l'Ouest (UEMOA), avec prise en charge des devises EUR (€) et XOF (FCFA).
 
-**URL du projet** : [https://github.com/Kyac99/calculateur-credit-europe-afrique](https://github.com/Kyac99/calculateur-credit-europe-afrique)
+**Dépôt** : [https://github.com/Kyac99/calculateur-credit-europe-afrique](https://github.com/Kyac99/calculateur-credit-europe-afrique)  
+**Application déployée** : [https://Kyac99.github.io/calculateur-credit-europe-afrique/](https://Kyac99.github.io/calculateur-credit-europe-afrique/)
 
 ## Fonctionnalités
 
